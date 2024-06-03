@@ -1,0 +1,19 @@
+Wealth Manager: "Hello! It's great to finally meet you. I've been looking forward to our chat all day. How's everything going for you lately? Any new adventures or hobbies you've picked up?"
+
+Client: "Hello, I've been well, a bit busy with work, but I try to make time for traveling and photography, which are my favorite ways to relax."
+
+Wealth Manager: "That sounds fantastic! Traveling and photography sound like perfect ways to unwind. Speaking of relaxing, let's make this financial planning session as smooth and stress-free as possible. To start off, could you share your current annual income? This will help us lay the groundwork for planning your investments."
+
+Client: "My annual income is about 800,000 RMB, and I am hoping to generate some passive income through investments."
+
+Wealth Manager: "Thank you for sharing that, it definitely helps to get a clear picture of where we’re starting from. Now, when it comes to investing, everyone has a different comfort level with risk. Could you tell me how you feel about risk? Are you someone who likes to play it safe, or are you open to exploring a bit more adventurous options?"
+
+Client: "I am quite cautious about high-risk investments; I prefer stable investment options. Especially considering my future retirement plans, I want to ensure my investments provide a stable return."
+
+Wealth Manager: "That makes a lot of sense, and it’s important that we align our strategy with your comfort level and future goals. Speaking of goals, what would you say are your main financial objectives? Are you looking to build a nest egg for retirement, save for your children’s education, or perhaps something else?"
+
+Client: "My main financial goals are to save enough for retirement and to provide a good education for my children. I believe education is an important investment, and I want to ensure they have the best possible start."
+
+Wealth Manager: "Absolutely, investing in your children’s future and ensuring a comfortable retirement are both admirable goals. We can explore investment options that cater to these objectives, ensuring they are safe, yield consistent returns, and align with your timeline. How does that sound?"
+
+Client: "That sounds great; I look forward to seeing the specific plans we can explore."

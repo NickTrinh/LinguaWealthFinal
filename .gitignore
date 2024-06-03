@@ -1,0 +1,6 @@
+.env
+/clientside/client_credentials_paste_on_new_computer
+/clientside/client_secrets.json
+credentials
+/serverside/client_secrets.json
+**/__pycache__/
